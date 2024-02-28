@@ -1,5 +1,6 @@
 # DA-3-Tableau
 Visualizations of the various data sets like Starbucks, Video games, etc. are created in Tableau. I have learnt this from a Data Analyst course of freecodecamp.org shared on YouTube.
+Data is taken from Kaggle.
 
 
 
@@ -21,6 +22,10 @@ Visualizations of the various data sets like Starbucks, Video games, etc. are cr
 
 7. Genre and North America sales AREA GRAPH : https://public.tableau.com/app/profile/manish.prajapati2733/viz/GenreStarbucksworkbook/GenreYearandNAsalesareachart
 
+8. BOX AND WHISKER PLOT of Genre and Global sales : https://public.tableau.com/app/profile/manish.prajapati2733/viz/BoxWhiskerGenreandGlobalsales/BoxWhiskerGenreandGlobalsales
 
 
 # Starbucks
+
+1. Starbucks location in India : https://public.tableau.com/app/profile/manish.prajapati2733/viz/StarbucksLocationIndia/StarbuckslocationIndia
+
